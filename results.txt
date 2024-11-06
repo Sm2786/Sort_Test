@@ -1,0 +1,5 @@
+Computer Name: WINDELL-H8VG36U
+Date of Test: 2024-11-06 11:00:41
+Bubble Sort Time: 6.466569 seconds
+Quick Sort Time: 0.009006 seconds
+
