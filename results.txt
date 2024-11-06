@@ -1,0 +1,5 @@
+Computer Name: Mats
+Date of Test: 2024-11-06 10:55:37
+Bubble Sort Time: 3.141252 seconds
+Quick Sort Time: 0.000000 seconds
+
